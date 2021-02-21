@@ -4,6 +4,8 @@ import './styles/index.css';
 import App from './App';
 import TestPage from './TestPage'
 import reportWebVitals from './reportWebVitals';
+import './libraries/fontAwesomeLibray'
+
 
 ReactDOM.render(
   <React.StrictMode>

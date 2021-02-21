@@ -1,4 +1,5 @@
 import './styles/SideBar.css';
+
 import ListItem from './ListItem.js';
 
 function SideBar() {
@@ -10,7 +11,7 @@ function SideBar() {
 
             <div className='SideMenu'> 
                 <ul>
-                   <ListItem icon='blabla' name="Expenses"/>
+                   <ListItem icon={['fas', 'coffee']}name="Expenses"/>
                    <ListItem icon='blabla' name="Travel"/>
                    <ListItem icon='blabla' name="Stormy"/>
                    <ListItem icon='blabla' name="Health"/>
