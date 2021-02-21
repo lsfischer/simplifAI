@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import underConstruction from './underConstruction.jpg';
+import underConstruction from './images/underConstruction.jpg';
 import './styles/App.css';
 
 function App() {

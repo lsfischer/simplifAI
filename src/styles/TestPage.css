@@ -3,6 +3,13 @@
     --dark-grey: #9ea7aa;
 
     --white: #ffffff;
+
+    --font-size-sm: 14px;
+    --font-size-md: 20px;
+    --font-size-lg: 28px;
+    --font-size-xl: 32px;
+
+
 }
 
 .MainWrapper {

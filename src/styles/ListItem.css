@@ -1,0 +1,18 @@
+@import 'TestPage.css';
+
+li {
+    width: 100%;
+    display: flex;
+    margin-bottom: 3%;
+}
+
+.ListItemIcon {
+    width: 7%;
+    font-size: var(--font-size-md);
+    margin-right: 3%;
+}
+
+.ListItemName {
+    width: 93%;
+    font-size: var(--font-size-md);
+}

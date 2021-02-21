@@ -1,5 +1,9 @@
 @import 'TestPage.css';
 
+ul {
+    list-style-type: none;
+}
+
 .SideBar {
     width: 30%;
     background-color: var(--light-grey);
@@ -26,3 +30,4 @@
 .SideMenu{
     height: 70%;
 }
+

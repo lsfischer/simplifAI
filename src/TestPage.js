@@ -1,4 +1,4 @@
-import SideBar from './SideBar';
+import SideBar from './components/sideBar/SideBar';
 import './styles/TestPage.css';
 
 function TestPage() {
