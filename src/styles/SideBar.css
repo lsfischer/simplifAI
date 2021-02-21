@@ -1,0 +1,28 @@
+@import 'TestPage.css';
+
+.SideBar {
+    width: 30%;
+    background-color: var(--light-grey);
+}
+
+.PhotoDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30%;
+    border-bottom: solid;
+    border-bottom-color: var(--dark-grey);
+    border-bottom-width: 1px;
+}
+
+.UserPhoto{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    /* To Change */
+    background: aqua;
+}
+
+.SideMenu{
+    height: 70%;
+}

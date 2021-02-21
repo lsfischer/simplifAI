@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import underConstruction from './underConstruction.jpg';
-import './App.css';
+import './styles/App.css';
 
 function App() {
   return (
